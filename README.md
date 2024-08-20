@@ -5,6 +5,7 @@
 
 .Tkinter
 ## Modes:
-.Single vs AI. 
-.Two Player Mode. 
+.Single vs AI
+
+.Two Player Mode
 
