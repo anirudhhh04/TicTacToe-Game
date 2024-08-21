@@ -1,9 +1,9 @@
-## IDEA:
+## IDEA :
  A Simple Tic-Tac-Toe game implemented using Min-max Algorithm. 
-## Tools Used:
+## Tools Used :
 - Python
 - Tkinter
-## Game Modes:
+## Game Modes :
 - Single vs AI
 - Two Player Mode
 
