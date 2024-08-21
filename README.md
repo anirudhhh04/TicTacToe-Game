@@ -1,11 +1,10 @@
 ## PROJECT:
- A tic-tac-toe game for players.
+ A tic-tac-toe game using Min-max Algorithm. 
 ## Tools Used:
-.Python 
+- Python
+- Tkinter
+## Game Modes:
+- Single vs AI
 
-.Tkinter
-## Modes:
-.Single vs AI
-
-.Two Player Mode
+- Two Player Mode
 
